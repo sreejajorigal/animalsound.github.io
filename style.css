@@ -1,0 +1,32 @@
+body{
+    font-family: 'Shizuru', cursive;
+    background: rgb(226, 50, 85);
+}
+.header_div{
+    background: rgb(7, 7, 182);
+    color: cyan;
+}
+.header_div p{
+    color: rgb(180, 18, 180);
+    letter-spacing:3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Imperial Script', cursive;
+    margin-top: 30px;
+    width: 100px;
+    letter-spacing: 3px;
+    font-weight: 900;
+}
+.copy_right_footer{
+    position: fixed;
+    color: darkgray;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    background-color: rgb(7, 7, 182);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px darkgray;
+}
